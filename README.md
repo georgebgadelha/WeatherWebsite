@@ -2,5 +2,5 @@
 A weather website to discover about your local weather.
 
 # Technologies
-Node JS
-HBS
+- Node JS
+- HBS
